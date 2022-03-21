@@ -76,7 +76,7 @@ function escogerPregunta(n) {
     style("imagen").width = "0px";
     setTimeout(() => {
       select_id("imagen").setAttribute("src", "");
-    }, 2500);
+    }, 3800);
   }
 }
 
